@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "nodemon Main1.js",
-    "build": "npm installs"
+    "build": "npm install"
   },
   "repository": {
     "type": "git",
